@@ -1,3 +1,0 @@
-# Bussiness-Game
-#html
-#javascript
